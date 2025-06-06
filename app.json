@@ -12,7 +12,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "CRISS-AI-Uc5gnSwL#FpBYW8GX-K-bBDJ1nuEyIc2LlDQZ7JqC9Cfa4boSuio"
     },  
     
     "STICKER_NAME": {
@@ -81,20 +81,20 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY CRISS-AI 🖤*"
+      "value": "*SEEN YOUR STATUS BY Nicolaus Daniel 2 😈😈*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴄʀɪss ᴠᴇᴠᴏ"
+      "value": "Nicolaus Daniel 2 😈😈"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255766263739"
+      "value": "255652398614"
 
     }, 
 
